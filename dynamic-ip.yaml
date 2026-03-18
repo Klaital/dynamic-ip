@@ -1,0 +1,6 @@
+remote_ip_source_uri: INSERT_HERE
+hosted_zones:
+  - id: "MYHOSTEDZONEID"
+    domains:
+      - "example.org."
+      - "\\052.example.org."
